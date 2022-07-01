@@ -1,0 +1,26 @@
+from turtle import *
+
+speed('slowest')
+forward(100)
+left(36.6)
+forward(100)
+left(36.6)
+forward(100)
+left(36.6)
+forward(100)
+left(36.6)
+forward(100)
+left(36.6)
+forward(100)
+left(36.6)
+forward(100)
+left(36.6)
+forward(100)
+left(36.6)
+forward(100)
+left(36.6)
+forward(100)
+left(36.6)
+
+
+mainloop()  
